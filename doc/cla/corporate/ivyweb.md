@@ -12,5 +12,5 @@ Jacobus Erasmus jacobus@ivyweb.co.za https://github.com/jacobuserasmus
 
 List of contributors:
 
-Carel van Dam carelvdam@gmail.com https://github.com/carelvd
-Jacobus Erasmus jacobus@ivyweb.co.za https://github.com/jacobuserasmus
+ * Carel van Dam carelvdam@gmail.com https://github.com/carelvd
+ * Jacobus Erasmus jacobus@ivyweb.co.za https://github.com/jacobuserasmus
